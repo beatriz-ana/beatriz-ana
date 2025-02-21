@@ -16,7 +16,7 @@ Olá a todos! Sou mais uma pessoa apaixonada por tecnologia comprometida em me t
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriz-ana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriz-ana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
  ## 💻 Onde me encontrar?
